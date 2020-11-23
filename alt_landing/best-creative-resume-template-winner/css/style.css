@@ -1127,6 +1127,7 @@ border: 1px solid #CE1139;
 .contact_info {
     font-size: 15px;
     margin: 0 0 0 20px;
+	text-align: right;
     padding-left: 0;
 }
 
