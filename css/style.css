@@ -473,20 +473,19 @@ a.read_more, a.read_more2 {
     margin:0 auto;
 }
 a.read_more{
-	 color: #3C3C3C;
-	 border: 1px solid #3C3C3C;
+	 color: #fff;
+	 border: 1px solid #fff;
 }
-a.read_more2:hover, a.read_more:hover {
+a.read_more2:hover {
     background: #fff;
     color: #030303;
     border: 1px solid #fff;
 }
 a.read_more:hover {
     background: #fff;
-    color: #ED5441;
-    border: 1px solid #ED5441;
+    color: #3179a3;
+    border: 1px solid #3179a3;
 }
-
 	
 
 .timeline{
@@ -1063,6 +1062,10 @@ border-radius: 50%;
 }
 .centered {
 text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
 #team .fa {
 width: 30px;
